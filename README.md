@@ -15,7 +15,8 @@ FraudShield is a full-stack web application that uses machine learning to detect
 ## Tech Stack
 
 ### Backend
-- FastAPI (Python web framework)
+- C++
+- - FastAPI (Python web framework)
 - Scikit-learn, XGBoost (Machine Learning)
 - PostgreSQL (Database)
 - SQLAlchemy (ORM)
